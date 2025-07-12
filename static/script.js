@@ -1,6 +1,6 @@
  
 // staƟc/script.js
-// Global state variables
+// Global state variables 
 let inventory = [];
 let totalProfit = 0;
 let totalLoss = 0;
